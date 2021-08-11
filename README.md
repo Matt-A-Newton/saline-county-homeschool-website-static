@@ -10,7 +10,7 @@
   </head>
   <body>
     <p align="center">
-      <img width="500" height="500" src="https://user-images.githubusercontent.com/47262701/128978961-6c6d9b17-421e-41f0-a0ea-72457a7668a4.png">
+      <img width="500" height="500" src="https://user-images.githubusercontent.com/47262701/128979094-e196c3a2-40d9-44f8-9d15-c71d2eaa7983.png">
     </p>
   </body>
 </html>
