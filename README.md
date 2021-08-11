@@ -3,13 +3,14 @@
     <title>SCCHEA Redirect</title>
     <style>
       body {
-        background-color: #1c87c9;
+        background-color: #651b36
+;
       }
     </style>
   </head>
   <body>
     <p align="center">
-      <img width="500" height="500" src="https://user-images.githubusercontent.com/47262701/128976933-6db4b0cf-1881-4eb6-bc73-749935963cf7.png">
+      <img width="500" height="500" src="https://user-images.githubusercontent.com/47262701/128978961-6c6d9b17-421e-41f0-a0ea-72457a7668a4.png">
     </p>
   </body>
 </html>
