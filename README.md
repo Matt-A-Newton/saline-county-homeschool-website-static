@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>Title of the document </title>
+    <title>SCCHEA Redirect</title>
     <style>
       body {
         background-color: #1c87c9;
