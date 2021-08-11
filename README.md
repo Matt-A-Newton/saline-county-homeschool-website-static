@@ -19,10 +19,5 @@
        <br>
        <h3 href="https://www.homeschool-life.com/3321/signup">Basketball information</h3> 
     </p>
-    <div style="text-align:center;">
-      <h3 href="https://www.homeschool-life.com/3301/signup">Activites, field trips, and Co-op</h3>
-      <br>
-      <h3 href="https://www.homeschool-life.com/3321/signup">Basketball information</h3> 
-    </div>
   </body>
 </html>
