@@ -13,11 +13,11 @@
   </head>
   <body>
     <p align="center">
-       <img src="https://user-images.githubusercontent.com/47262701/128986212-5389acf4-fcdd-4959-883a-56866b42f92b.jpg" class="image" alt="Redirect information">
+       <img src="https://user-images.githubusercontent.com/47262701/129086082-1c8a6f67-f3cf-49cf-9c86-a2ab65bb02eb.jpg" class="image" alt="Redirect information">
        <br>
-       <a href="https://www.homeschool-life.com/3301/signup">Activites, field trips, and Co-op</a>
+       <h3 href="https://www.homeschool-life.com/3301/signup">Activites, field trips, and Co-op</h3>
        <br>
-       <a href="https://www.homeschool-life.com/3321/signup">Basketball information</a> 
+       <h3 href="https://www.homeschool-life.com/3321/signup">Basketball information</h3> 
     </p>
   </body>
 </html>
